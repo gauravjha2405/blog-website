@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1890" height="1417" viewBox="0 0 1890 1417">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #561010;
+        stroke: #000;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="-126.656" y="-430.5" width="2144.036" height="1455.88" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="-126.156" y="-430" width="2143.036" height="1454.88" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjE0My4wMzYiIGhlaWdodD0iMTQ1NC44OCIgdmlld0JveD0iMCAwIDIxNDMuMDM2IDE0NTQuODgiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMTY2MC41ODciIHkxPSIxNDU0Ljg4IiB4Mj0iNDgyLjQ0OSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMwNzIyNGIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjA4OCIgc3RvcC1jb2xvcj0iIzA3MjI0YiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNTM4IiBzdG9wLWNvbG9yPSIjMjc2MWE5Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzRmOWJkNSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMjE0My4wMzYiIGhlaWdodD0iMTQ1NC44OCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g style="fill: #561010; filter: url(#filter)">
+    <path id="path" class="cls-1" d="M-40-430H1850c143.89,215.719,208.78,478.818,138.22,726.253C1866.12,724.4,1388.35,876.641,1216,917c-177.57,41.582-331.872,19.556-546,9-370.561-18.268-725.747-1.862-736,61-0.915,5.613-.956,23.15,10,32,12.788,10.33,35.81,4.63,36,1,0.236-4.5-34.5-8.9-43-11C-184.07,979.053-105.3,146.027-40-430ZM125,1068" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#path" style="stroke: #000; filter: none; fill: none"/>
+</svg>
